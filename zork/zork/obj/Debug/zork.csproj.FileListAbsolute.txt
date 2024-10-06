@@ -1,0 +1,7 @@
+C:\Users\ertho\Desktop\tools and plugins\repositories\zork\zork\bin\Debug\zork.exe.config
+C:\Users\ertho\Desktop\tools and plugins\repositories\zork\zork\bin\Debug\zork.exe
+C:\Users\ertho\Desktop\tools and plugins\repositories\zork\zork\bin\Debug\zork.pdb
+C:\Users\ertho\Desktop\tools and plugins\repositories\zork\zork\obj\Debug\zork.csproj.AssemblyReference.cache
+C:\Users\ertho\Desktop\tools and plugins\repositories\zork\zork\obj\Debug\zork.csproj.CoreCompileInputs.cache
+C:\Users\ertho\Desktop\tools and plugins\repositories\zork\zork\obj\Debug\zork.exe
+C:\Users\ertho\Desktop\tools and plugins\repositories\zork\zork\obj\Debug\zork.pdb
